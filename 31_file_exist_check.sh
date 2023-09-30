@@ -6,6 +6,6 @@ if [[ -f $filepath ]]
 then
   echo "File exist"
 else
-  echo "Cresating file now"
+  echo "Creating file now"
   touch $filepath
 fi
