@@ -5,7 +5,7 @@ function add() {
     result=$(echo "$1 + $2" | bc)
     echo "Result of addition: $result"
 }
-
+  
 # Define a function to perform subtraction
 function subtract() {
     result=$(echo "$1 - $2" | bc)
