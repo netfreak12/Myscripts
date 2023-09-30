@@ -6,7 +6,7 @@ y=2
 
 let mul=$x*$y
 echo "Multiplication: $mul"
-
+    
 let sum=$x+$y
 echo "Sum: $sum"
 
