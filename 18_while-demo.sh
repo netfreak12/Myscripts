@@ -7,3 +7,4 @@ do
   echo "Value of count var is $count"
   let count++
 done
+  
