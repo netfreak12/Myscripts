@@ -2,7 +2,7 @@
 myArray=(1 2 3 Hello Hii)
 
 length=${#myArray[*]}
-
+  
 for((i=0;i<$length;i++))
 do
   echo "Value of my array is ${myArray[$i]}"
