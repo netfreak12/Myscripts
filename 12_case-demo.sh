@@ -16,5 +16,5 @@ case $choice in
         c)pwd;;
         *) echo "Please provide a valid value"
 esac
-
+  
 
