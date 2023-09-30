@@ -4,7 +4,7 @@
 
 - [**..**](./Projects) - Project directory
 
-| Name                                           | Last Commit Message                                                                     |
+| Name                                           | Description                                                                             |
 | ---------------------------------------------- | --------------------------------------------------------------------------------------- |
 | [**RAM_Monitoring.sh**](./RAM_Monitoring.sh)   | RAM Monitoring                                                                          |
 | [**archive_project.sh**](./archive_project.sh) | Archive older files or older files                                                      |
@@ -16,7 +16,7 @@
 
 ### Shell Scripts (Files)
 
-| Name                                                       | Last Commit Message                                |
+| Name                                                       | Description                                        |
 | ---------------------------------------------------------- | -------------------------------------------------- |
 | [**01_basic.sh**](./01_basic.sh)                           | Basic script                                       |
 | [**02_comment.sh**](./02_comment.sh)                       | Example of single line and multi line comment      |
