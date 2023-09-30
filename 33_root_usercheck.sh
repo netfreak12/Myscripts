@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ 
 #Checking if the user is root or not 
 if [[ $UID -eq 0 ]]
 then 
