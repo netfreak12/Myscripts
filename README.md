@@ -2,6 +2,8 @@
 
 ### Projects (Directory)
 
+- [**..**](./Projects) - Project directory
+
 | Name                                           | Last Commit Message                                                                     |
 | ---------------------------------------------- | --------------------------------------------------------------------------------------- |
 | [**RAM_Monitoring.sh**](./RAM_Monitoring.sh)   | RAM Monitoring                                                                          |
