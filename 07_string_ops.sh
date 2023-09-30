@@ -15,4 +15,4 @@ newVar=${myVar/Buddy/Sandesh}
 echo "New var is----- ${newVar}"
 
 #To slice a string
-echo "After slice----- ${myVar:6:5}"
+echo "After slice----- ${myVar:6:5}"      
