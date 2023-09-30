@@ -2,7 +2,7 @@
 
 # Example of using continue in a loop 
 # Suppose we only need to print odd numbers.
-
+  
 for i in 1 2 3 4 5 6 7 8 9 10
 do 
   let r=$i%2
