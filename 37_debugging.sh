@@ -8,3 +8,4 @@ pwd
 date
 cd /root
 hostname
+  
