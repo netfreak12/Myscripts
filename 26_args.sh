@@ -1,7 +1,7 @@
 #!/bin/bash
 set -x
 #To access the arguments
-
+  
 if [[ $# -eq 0 ]]
 then 
   echo "No arguments provided..."
