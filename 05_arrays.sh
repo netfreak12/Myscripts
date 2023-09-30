@@ -3,7 +3,7 @@
 #Array
 
 myArray=(1 2 30.5 Hello "Hey Buddy!")
-
+      
 echo "all the values in array are : ${myArray[*]}"
 echo "Value in 3rd index : ${myArray[3]}"
 
