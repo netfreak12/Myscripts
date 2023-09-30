@@ -1,6 +1,6 @@
 #!/bin/bash
 
 #constant variable
-readonly COLLEGE="Metro"
+readonly COLLEGE="Metro"      
 
-echo "My college name is $COLLEGE"
+echo "My college name is $COLLEGE"   
