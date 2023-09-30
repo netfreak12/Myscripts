@@ -14,5 +14,5 @@ echo "My name is $name and age is $age"
 #Variables to store the output of the command
 
 HOSTNAME=$(hostname)
-
+    
 echo "Name of this machine is $HOSTNAME"
